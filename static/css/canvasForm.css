@@ -1,0 +1,15 @@
+.tagulCloud {
+	position: absolute;
+	top: 102px;
+}
+.tagulCloud canvas,
+.tagulCloud div {
+	width: 399px;
+	height: 370px;
+	border-radius: 6px;
+}
+.tagulCloud canvas:first-child {
+	margin-top: 5px;
+	border: 1px solid #C5DBEC;
+	background-image: url("/static/generator/images/css/transparent.png");
+}
